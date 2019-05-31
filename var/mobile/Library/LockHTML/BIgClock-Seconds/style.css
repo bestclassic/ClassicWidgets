@@ -1,0 +1,12 @@
+@font-face {
+font-family: "impact";
+src: url("fonts/impact.ttf");
+}
+
+div {
+color: white;
+font-family: 'impact';
+font-size: 85px;
+font-style: bold;
+-webkit-text-stroke: 2.5px black
+}
